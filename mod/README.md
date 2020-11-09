@@ -24,4 +24,6 @@
 
 |    模组    |    物品名称  |
 | - |  |  
+|原版|TNT| 
 |Industrial Craft 2 | 区块加载器
+|Industrial Craft 2 | 工业TNT
