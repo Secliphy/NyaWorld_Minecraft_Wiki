@@ -26,6 +26,12 @@
 |Storage Drawers|储物抽屉|StorageDrawers-1.12.2-5.4.2|实用
 |Atum 2: Return to the Sands|亚图姆：金沙之旅|Atum-1.12.2-2.0.19|冒险
 |The Twilight Forest|暮色森林|twilightforest-1.12.2-3.11.1021-universal|冒险
+|Corail's Tombstone|Corail的墓碑|tombstone-4.0.0-1.12.2.jar|魔法
+
+## 计划中待添加模组
+|    模组    |    中文名   |分类 | 
+| -          |            |     |
+|ChinjufuMod|镇守府|农业|
 
 ## 已封禁物品
 
