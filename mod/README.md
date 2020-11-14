@@ -7,9 +7,11 @@
 | - |  | | | |
 |Alchemistry|炼金化学|alchemistry-1.12.2-41|科技
 |Applied Energistics 2|应用能源2|appliedenergistics2-rv6-stable-7|科技
+|GregTech: Community Edition|格雷科技社区版|gregtech-1.12.2-1.9.4.541|科技
 |Immersive Engineering|沉浸工程|ImmersiveEngineering-0.12-98|科技
 |Thermal Expansion 5 | 热力膨胀5 | ThermalExpansion-1.12.2-5.5.7.1-universal | 科技
 |Thermal Dynamics|热动力学|ThermalDynamics-1.12.2-2.5.6.1-universal|科技
+|Terra Firma Craft|群峦传说1.12+|TerraFirmaCraft-MC1.12.2-1.7.6.164|科技
 |Industrial Craft 2|工业时代2|industrialcraft-2-2.8.221-ex112| 科技
 |Mekanism |通用机械|Mekanism-1.12.2-9.8.3.390|科技
 |Botania|植物魔法|Botania+r1.10-363|魔法
@@ -27,11 +29,11 @@
 |Atum 2: Return to the Sands|亚图姆：金沙之旅|Atum-1.12.2-2.0.19|冒险
 |The Twilight Forest|暮色森林|twilightforest-1.12.2-3.11.1021-universal|冒险
 |Corail's Tombstone|Corail的墓碑|tombstone-4.0.0-1.12.2.jar|魔法
-
+|Biomes O' Plenty|超多生物群系|BiomesOPlenty-1.12.2-7.0.1.2444-universal|装饰
 ## 计划中待添加模组
 |    模组    |    中文名   |分类 | 
 | -          |            |     |
-|ChinjufuMod|镇守府|农业|
+
 
 ## 已封禁物品
 
