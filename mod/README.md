@@ -35,8 +35,9 @@
 
 ## 已封禁物品
 
-|    模组    |    物品名称  |
-| - |  |  
-|原版|TNT| 
-|Industrial Craft 2 | 区块加载器
-|Industrial Craft 2 | 工业TNT
+|    模组    |    物品名称  |封禁原因|
+| - |  |  |
+|原版|TNT| TNT 原罪|
+|Industrial Craft 2 | 区块加载器|范围过大，已有相同类型范围更小工具提供|
+|Industrial Craft 2 | 工业TNT|TNT 原罪|
+|Industrial Craft 2|镭射采矿枪|玩家请求封禁,热能离心机可使用材料兑换|
