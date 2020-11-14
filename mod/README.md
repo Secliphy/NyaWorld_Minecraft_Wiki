@@ -17,6 +17,9 @@
 |Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业  
 |Mystical Agradditions|神秘农业扩展|MysticalAgradditions-1.12.2-1.3.2|农业  
 |Roost|鸡窝|roost-1.12.2-2.0.10|农业  
+|Rustic|乡村|rustic-1.1.5|农业
+|SaltyMod|盐|SaltyMod-1.12.2-1.12.6.2|农业
+|XL Food Mod|超多食物|XL-Food-Mod-1.12.2-1.9.2|农业
 |Avaritia|无尽贪婪|Avaritia-1.12.2-3.3.0.33-universal|实用  
 |Better Builder's Wands|更好的建筑之杖|BetterBuildersWands-1.12-0.11.1.245+69d0d70|实用  
 |Draconic Evolution|龙之进化|Draconic-Evolution-1.12.2-2.3.27.353-universal|实用  
