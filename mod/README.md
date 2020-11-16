@@ -12,7 +12,8 @@
 |Thermal Expansion 5 | 热力膨胀5 | ThermalExpansion-1.12.2-5.5.7.1-universal | 科技  
 |Thermal Dynamics|热动力学|ThermalDynamics-1.12.2-2.5.6.1-universal|科技  
 |Industrial Craft 2|工业时代2|industrialcraft-2-2.8.221-ex112| 科技  
-|Mekanism |通用机械|Mekanism-1.12.2-9.8.3.390|科技  
+|Mekanism |通用机械|Mekanism-1.12.2-9.8.3.390|科技 
+|NuclearCraft|核电工艺|NuclearCraft-2.18y-1.12.2|科技
 |Botania|植物魔法|Botania+r1.10-363|魔法  
 |Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业  
 |Mystical Agradditions|神秘农业扩展|MysticalAgradditions-1.12.2-1.3.2|农业  
