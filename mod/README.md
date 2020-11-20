@@ -13,6 +13,8 @@
 |Thermal Dynamics|热动力学|ThermalDynamics-1.12.2-2.5.6.1-universal|科技  
 |Industrial Craft 2|工业时代2|industrialcraft-2-2.8.221-ex112| 科技  
 |Mekanism |通用机械|Mekanism-1.12.2-9.8.3.390|科技 
+|Mekanism Generators|通用机械发电机|MekanismGenerators-1.12.2-9.8.3.390|科技
+|Mekanism Tools|通用机械工具|MekanismTools-1.12.2-9.8.3.390|科技
 |NuclearCraft|核电工艺|NuclearCraft-2.18y-1.12.2|科技
 |Botania|植物魔法|Botania+r1.10-363|魔法  
 |Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业  
@@ -33,6 +35,7 @@
 |The Twilight Forest|暮色森林|twilightforest-1.12.2-3.11.1021-universal|冒险  
 |Corail's Tombstone|Corail的墓碑|tombstone-4.0.0-1.12.2.jar|魔法  
 |Biomes O' Plenty|超多生物群系|BiomesOPlenty-1.12.2-7.0.1.2444-universal|装饰  
+|MrCrayfish's Furniture Mod|MrCrayfish的家具|furniture-6.3.1-1.12.2|装饰
 ## 计划中待添加模组
 |    模组    |    中文名   |分类 |   
 | -          |            |     |  
