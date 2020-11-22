@@ -32,8 +32,9 @@
 |TAIGA (Tinkers alloying addon)|匠魂合金附加 |taiga-1.12.2-1.3.4|实用   
 |Storage Drawers|储物抽屉|StorageDrawers-1.12.2-5.4.2|实用  
 |Atum 2: Return to the Sands|亚图姆：金沙之旅|Atum-1.12.2-2.0.19|冒险  
+|The Aether|天境|aether-1.12.2-v1.5.2|冒险
 |The Twilight Forest|暮色森林|twilightforest-1.12.2-3.11.1021-universal|冒险  
-|Corail's Tombstone|Corail的墓碑|tombstone-4.0.0-1.12.2.jar|魔法  
+|Corail's Tombstone|Corail的墓碑|tombstone-4.0.0-1.12.2|魔法  
 |Biomes O' Plenty|超多生物群系|BiomesOPlenty-1.12.2-7.0.1.2444-universal|装饰  
 |MrCrayfish's Furniture Mod|MrCrayfish的家具|furniture-6.3.1-1.12.2|装饰
 ## 计划中待添加模组
