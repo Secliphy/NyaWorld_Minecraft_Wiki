@@ -24,7 +24,6 @@
 |SaltyMod|盐|SaltyMod-1.12.2-1.12.6.2|农业
 |XL Food Mod|超多食物|XL-Food-Mod-1.12.2-1.9.2|农业
 |Avaritia|无尽贪婪|Avaritia-1.12.2-3.3.0.33-universal|实用  
-|Better Builder's Wands|更好的建筑之杖|BetterBuildersWands-1.12-0.11.1.245+69d0d70|实用  
 |Draconic Evolution|龙之进化|Draconic-Evolution-1.12.2-2.3.27.353-universal|实用  
 |Extra Utilities 2|更多实用设备2|extrautils2-1.12-1.9.9|实用  
 |Tinkers' Construct 2|匠魂2|TConstruct-1.12.2-2.13.0.183|实用  
