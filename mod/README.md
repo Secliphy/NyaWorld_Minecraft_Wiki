@@ -18,7 +18,6 @@
 |NuclearCraft|核电工艺|NuclearCraft-2.18y-1.12.2|科技
 |Botania|植物魔法|Botania+r1.10-363|魔法  
 |Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业  
-|Mystical Agradditions|神秘农业扩展|MysticalAgradditions-1.12.2-1.3.2|农业  
 |Roost|鸡窝|roost-1.12.2-2.0.10|农业  
 |Rustic|乡村|rustic-1.1.5|农业
 |SaltyMod|盐|SaltyMod-1.12.2-1.12.6.2|农业
