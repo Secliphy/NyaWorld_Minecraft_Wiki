@@ -50,4 +50,5 @@
 |Industrial Craft 2 | 工业TNT|TNT 原罪|  
 |Industrial Craft 2|镭射采矿枪|玩家请求封禁,热能离心机可使用材料兑换|  
 |Industrial Craft 2|OV扫描器|OV扫描器在高级采矿机上范围过大带来了领地破坏问题|
+|Mekanism|黑曜石TNT|TNT 原罪|
 
