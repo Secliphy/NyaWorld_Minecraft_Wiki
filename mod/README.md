@@ -7,7 +7,6 @@
 | - |  | | | |  
 |Alchemistry|炼金化学|alchemistry-1.12.2-41|科技  
 |Applied Energistics 2|应用能源2|appliedenergistics2-rv6-stable-7|科技  
-|GregTech: Community Edition|格雷科技社区版|gregtech-1.12.2-1.9.4.541|科技  
 |Immersive Engineering|沉浸工程|ImmersiveEngineering-0.12-98|科技  
 |Thermal Expansion 5 | 热力膨胀5 | ThermalExpansion-1.12.2-5.5.7.1-universal | 科技  
 |Thermal Dynamics|热动力学|ThermalDynamics-1.12.2-2.5.6.1-universal|科技  
@@ -17,8 +16,7 @@
 |Mekanism Tools|通用机械工具|MekanismTools-1.12.2-9.8.3.390|科技
 |NuclearCraft|核电工艺|NuclearCraft-2.18y-1.12.2|科技
 |Botania|植物魔法|Botania+r1.10-363|魔法  
-|Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业  
-|Roost|鸡窝|roost-1.12.2-2.0.10|农业  
+|Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业    
 |Rustic|乡村|rustic-1.1.5|农业
 |SaltyMod|盐|SaltyMod-1.12.2-1.12.6.2|农业
 |XL Food Mod|超多食物|XL-Food-Mod-1.12.2-1.9.2|农业
