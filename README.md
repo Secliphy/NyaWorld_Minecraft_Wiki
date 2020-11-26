@@ -18,8 +18,8 @@
 > cn.play.nya.world
 
 如果您希望强制使用海外线路，请使用以下地址:  
-> global.play.nya.world
-!> 线路维护中，暂时不可用
+> global.play.nya.world  
+!> 线路维护中，暂时不可用  
 如果您仍旧存在延迟过高等问题，请联系管理组提供网络ISP等信息以便排查问题
 
 ## 关于服务器
