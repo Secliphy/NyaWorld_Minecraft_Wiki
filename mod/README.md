@@ -17,8 +17,6 @@
 |NuclearCraft|核电工艺|NuclearCraft-2.18y-1.12.2|科技  
 |Botania|植物魔法|Botania+r1.10-363|魔法  
 |Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业     
-|Rustic|乡村|rustic-1.1.5|农业  
-|SaltyMod|盐|SaltyMod-1.12.2-1.12.6.2|农业  
 |XL Food Mod|超多食物|XL-Food-Mod-1.12.2-1.9.2|农业  
 |Avaritia|无尽贪婪|Avaritia-1.12.2-3.3.0.33-universal|实用   
 |Draconic Evolution|龙之进化|Draconic-Evolution-1.12.2-2.3.27.353-universal|实用    
@@ -27,7 +25,6 @@
 |Construct's Armory|匠魂盔甲|conarm-1.12.2-1.2.5.4|实用   
 |TAIGA (Tinkers alloying addon)|匠魂合金附加 |taiga-1.12.2-1.3.4|实用   
 |Storage Drawers|储物抽屉|StorageDrawers-1.12.2-5.4.2|实用  
-|Atum 2: Return to the Sands|亚图姆：金沙之旅|Atum-1.12.2-2.0.19|冒险   
 |The Aether|天境|aether-1.12.2-v1.5.2|冒险  
 |The Twilight Forest|暮色森林|twilightforest-1.12.2-3.11.1021-universal|冒险   
 |Corail's Tombstone|Corail的墓碑|tombstone-4.0.0-1.12.2|魔法   
