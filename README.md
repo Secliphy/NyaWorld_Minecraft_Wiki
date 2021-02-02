@@ -30,6 +30,7 @@
 >	tky.play.nya.world
 
 如果您出现认证服务器失败，可尝试指定认证服务器:
+
 东京为默认线路:
 > mc.login.nya.world
 
