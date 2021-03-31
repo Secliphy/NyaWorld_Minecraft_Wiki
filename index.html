@@ -7,17 +7,31 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      
+      name: "NyaWorld",
+      repo: 'https://github.com/kiseopt/NyaWorld_Minecraft_Wiki',
       loadSidebar: true,
-      subMaxLevel: 2
+      subMaxLevel: 3,
+      autoHeader: true,
+      loadNavbar: true,
+      themeColor: "#03A9F4",
+      //    YYYY-年 yy-短年 MM-月 DD-日 HH-时 mm-分 ss-秒 fff-微秒
+      formatUpdated: '最后编辑时间于{YYYY}/{MM}/{DD}',
+      count:{ countable:true, fontsize:'0.9em', color:'rgb(90,90,90)', language:'chinese' ,},
+
     }
+    
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+  
 </body>
 </html>
