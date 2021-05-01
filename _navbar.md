@@ -1,4 +1,4 @@
 - [首页](/)
 - [账号中心](https://mc.login.nya.world/)
 - [游戏服务器](/)
-    - [Felicene/フェリセン](felicene/)
+    - [Penguinone/ペンギノン](Penguinone/)
