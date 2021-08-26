@@ -15,26 +15,17 @@
 服务器地址，默认情况下根据您所选的DNS服务商会将您智能解析到离您最近的服务器:  
 > play.nya.world
 
-如果您希望强制使用大陆线路(智能)，可以使用以下地址:  
-> cn.play.nya.world
 
-如果您在上海等地或距离上海较近(华东)，可以使用以下地址:  
-> sh.cn.play.nya.world
+如果您在上海等地或距离上海较近(华东)，可以使用以下地址(阿里云上海):  
+> sha.play.nya.world
 
-如果您在广州等地或距离广州较近(华南)，可以使用以下地址:  
-> gz.cn.play.nya.world
+如果您在香港等地或距离香港较近，可以使用香港线路(腾讯云香港):
+>	hkg.play.nya.world
 
-如果您在香港等地或距离香港较近，可以使用香港线路:
->	hk.play.nya.world
-
-(维护)如果您在东京等地或距离东京较近，可以使用东京线路:
->	tky.play.nya.world
+如果您在东京等地或距离东京较近，可以使用东京线路:
+>	tyo.play.nya.world
 
 如果您出现认证服务器失败，可尝试指定认证服务器:
-
-东京为默认线路:
-> mc.login.nya.world
-
 香港:
 > hk.mc.login.nya.world
 
