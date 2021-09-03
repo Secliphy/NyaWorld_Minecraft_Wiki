@@ -106,31 +106,31 @@
 ### 已启用模组
 |    模组    |    中文名   |版本 | 分类 | 教程|  
 | - |  | | | |  
-|Alchemistry|炼金化学|alchemistry-1.12.2-41|科技  
-|Applied Energistics 2|应用能源2|appliedenergistics2-rv6-stable-7|科技  
-|Immersive Engineering|沉浸工程|ImmersiveEngineering-0.12-98|科技  
-|Thermal Expansion 5 | 热力膨胀5 | ThermalExpansion-1.12.2-5.5.7.1-universal | 科技  
-|Thermal Dynamics|热动力学|ThermalDynamics-1.12.2-2.5.6.1-universal|科技  
-|Industrial Craft 2|工业时代2|industrialcraft-2-2.8.221-ex112| 科技  
-|Mekanism |通用机械|Mekanism-1.12.2-9.8.3.390|科技  
-|Mekanism Generators|通用机械发电机|MekanismGenerators-1.12.2-9.8.3.390|科技  
-|Mekanism Tools|通用机械工具|MekanismTools-1.12.2-9.8.3.390|科技  
-|NuclearCraft|核电工艺|NuclearCraft-2.18y-1.12.2|科技  
-|Botania|植物魔法|Botania+r1.10-363|魔法  
-|Mystical Agriculture|神秘农业|MysticalAgriculture-1.12.2-1.7.5|农业     
-|XL Food Mod|超多食物|XL-Food-Mod-1.12.2-1.9.2|农业  
-|Avaritia|无尽贪婪|Avaritia-1.12.2-3.3.0.33-universal|实用   
-|Draconic Evolution|龙之进化|Draconic-Evolution-1.12.2-2.3.27.353-universal|实用    
+|Alchemistry|[炼金化学](https://www.mcmod.cn/class/1928.html)|alchemistry-1.12.2-41|科技  
+|Applied Energistics 2|[应用能源2](https://www.mcmod.cn/class/260.html)|appliedenergistics2-rv6-stable-7|科技  
+|Immersive Engineering|[沉浸工程](https://www.mcmod.cn/class/463.html)|ImmersiveEngineering-0.12-98|科技  
+|Thermal Expansion 5 | [热力膨胀5](https://www.mcmod.cn/class/634.html) | ThermalExpansion-1.12.2-5.5.7.1-universal | 科技  
+|Thermal Dynamics|[热动力学](https://www.mcmod.cn/class/480.html)|ThermalDynamics-1.12.2-2.5.6.1-universal|科技  
+|Industrial Craft 2|[工业时代2](https://www.mcmod.cn/class/2.html)|industrialcraft-2-2.8.221-ex112| 科技  
+|Mekanism |[通用机械](https://www.mcmod.cn/class/187.html)|Mekanism-1.12.2-9.8.3.390|科技  
+|Mekanism Generators|[通用机械发电机](https://www.mcmod.cn/class/1323.html)|MekanismGenerators-1.12.2-9.8.3.390|科技  
+|Mekanism Tools|[通用机械工具](https://www.mcmod.cn/class/1615.html)|MekanismTools-1.12.2-9.8.3.390|科技  
+|NuclearCraft|[核电工艺](https://www.mcmod.cn/class/388.html)|NuclearCraft-2.18y-1.12.2|科技  
+|Botania|[植物魔法](https://www.mcmod.cn/class/332.html)|Botania+r1.10-363|魔法  
+|Mystical Agriculture|[神秘农业](https://www.mcmod.cn/class/929.html)|MysticalAgriculture-1.12.2-1.7.5|农业     
+|XL Food Mod|[超多食物](https://www.mcmod.cn/class/1515.html)|XL-Food-Mod-1.12.2-1.9.2|农业  
+|Avaritia|[无尽贪婪](https://www.mcmod.cn/class/505.html)|Avaritia-1.12.2-3.3.0.33-universal|实用   
+|Draconic Evolution|[龙之进化](https://www.mcmod.cn/class/423.html)|Draconic-Evolution-1.12.2-2.3.27.353-universal|实用    
 |Extra Utilities 2|更多实用设备2|extrautils2-1.12-1.9.9|实用    
-|Tinkers' Construct 2|匠魂2|TConstruct-1.12.2-2.13.0.183|实用   
-|Construct's Armory|匠魂盔甲|conarm-1.12.2-1.2.5.4|实用   
-|TAIGA (Tinkers alloying addon)|匠魂合金附加 |taiga-1.12.2-1.3.4|实用   
-|Storage Drawers|储物抽屉|StorageDrawers-1.12.2-5.4.2|实用  
-|The Aether|天境|aether-1.12.2-v1.5.2|冒险  
-|The Twilight Forest|暮色森林|twilightforest-1.12.2-3.11.1021-universal|冒险   
-|Corail's Tombstone|Corail的墓碑|tombstone-4.0.0-1.12.2|魔法   
+|Tinkers' Construct 2|[匠魂2](https://www.mcmod.cn/class/683.html)|TConstruct-1.12.2-2.13.0.183|实用   
+|Construct's Armory|[匠魂盔甲](https://www.mcmod.cn/class/1318.html)|conarm-1.12.2-1.2.5.4|实用   
+|TAIGA (Tinkers alloying addon)|[匠魂合金附加](https://www.mcmod.cn/class/1146.html) |taiga-1.12.2-1.3.4|实用   
+|Storage Drawers|[储物抽屉](https://www.mcmod.cn/class/408.html)|StorageDrawers-1.12.2-5.4.2|实用  
+|The Aether|[天境](https://www.mcmod.cn/class/94.html)|aether-1.12.2-v1.5.2|冒险  
+|The Twilight Forest|[暮色森林](https://www.mcmod.cn/class/61.html)|twilightforest-1.12.2-3.11.1021-universal|冒险   
+|Corail's Tombstone|[Corail的墓碑](https://www.mcmod.cn/class/1985.html)|tombstone-4.0.0-1.12.2|魔法   
 |Biomes O' Plenty|超多生物群系|BiomesOPlenty-1.12.2-7.0.1.2444-universal|装饰   
-|MrCrayfish's Furniture Mod|MrCrayfish的家具|furniture-6.3.1-1.12.2|装饰  
+|MrCrayfish's Furniture Mod|[MrCrayfish的家具](https://www.mcmod.cn/class/263.html)|furniture-6.3.1-1.12.2|装饰  
 ### 计划中待添加模组
 |    模组    |    中文名   |分类 |   
 | -          |            |     |  
