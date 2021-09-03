@@ -106,7 +106,7 @@
 ### 已启用模组
 |    模组    |    中文名   |版本 | 分类 | 教程|  
 | - |  | | | |  
-|Alchemistry|炼金化学|alchemistry-1.12.2-41|科技  
+|Alchemistry|[炼金化学](https://search.mcmod.cn/s?key=%E7%82%BC%E9%87%91%E5%8C%96%E5%AD%A6)|alchemistry-1.12.2-41|科技  
 |Applied Energistics 2|应用能源2|appliedenergistics2-rv6-stable-7|科技  
 |Immersive Engineering|沉浸工程|ImmersiveEngineering-0.12-98|科技  
 |Thermal Expansion 5 | 热力膨胀5 | ThermalExpansion-1.12.2-5.5.7.1-universal | 科技  
